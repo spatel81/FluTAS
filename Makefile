@@ -4,7 +4,7 @@
 
 .NOTPARALLEL:
 
-ARCH ?= generic-gnu
+ARCH ?= polaris
 USE_FAST_KERNELS ?= 0
 USE_NVTX ?= 0
 
